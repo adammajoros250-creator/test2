@@ -2,6 +2,7 @@
   "name": "mocorex-arc",
   "private": true,
   "version": "1.0.0",
+  "type": "commonjs",
   "description": "Next-Generation DeFi & Crypto Trading Platform",
   "engines": {
     "node": ">=18.0.0",
